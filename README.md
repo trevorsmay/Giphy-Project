@@ -11,6 +11,10 @@ To utilize this application, simply open the index.html in your browser.
 Bootstrap 
 CSS
 HTML
+JavaScript
+AJAX
+Gify API
+JQUERY
 
 ## Acknowledgments
 
