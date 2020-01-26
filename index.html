@@ -39,7 +39,7 @@ method: "GET"
 }).done(function(response) {
 var results = response.data;
 for(var i = 0; i < results.length; i++){
-    if (results[i].rating !== "r" && results[i].rating !== "pg-13"){
+    if (results[i].rating !== "r" && results[i].rating !== "r"){
 
 var gifDiv = $("<div class='gifs'>");
 var gifRating = $("<p>").text("Rating: " + results[i].rating);
